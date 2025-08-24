@@ -1,4 +1,5 @@
 ## Hi world, I'm Abdus Solihin 👋
+I am an entry-level web developer specializing in building responsive landing pages and simple websites using HTML, CSS, JavaScript, and AI-assisted tools. I deliver fast, communicate clearly, and always ensure the final result matches the client’s needs.
 
 <!--
 **abdus-devx/abdus-devx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
